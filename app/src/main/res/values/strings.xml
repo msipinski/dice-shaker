@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Shaker</string>
+    <string name="diceCount">Dice count: %d</string>
+    <string name="shake">Shake</string>
+</resources>
